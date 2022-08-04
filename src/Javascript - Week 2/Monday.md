@@ -11,7 +11,7 @@ Account successfully created! You can check it [here](https://www.codewars.com/u
 
 ___
 
-## 3. Read about the following Javascript statements
+## 3. Read about the following Javascript statements:
 
 1. [if...else](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
 2. [for](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)

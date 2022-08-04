@@ -47,7 +47,7 @@ if ((cond == true)) {
 }
 ```
 
-### **BAD Code 2***
+### **BAD Code 2**
 
 #### **Description**
 
@@ -79,7 +79,7 @@ if (n == 100) {
   console.log('This is a special number!');
 } else {
     if ((n < 1000) && (n % 10 == 0)) {
-    console.log('');
+    console.log('This number is almost special');
     } else {
   console.log('Just a regular number');
 }
